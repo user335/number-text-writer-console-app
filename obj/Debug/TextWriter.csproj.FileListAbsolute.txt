@@ -1,0 +1,7 @@
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\text-writer-console-app\TextWriter\TextWriter\bin\Debug\TextWriter.exe.config
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\text-writer-console-app\TextWriter\TextWriter\bin\Debug\TextWriter.exe
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\text-writer-console-app\TextWriter\TextWriter\bin\Debug\TextWriter.pdb
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\text-writer-console-app\TextWriter\TextWriter\obj\Debug\TextWriter.csprojAssemblyReference.cache
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\text-writer-console-app\TextWriter\TextWriter\obj\Debug\TextWriter.csproj.CoreCompileInputs.cache
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\text-writer-console-app\TextWriter\TextWriter\obj\Debug\TextWriter.exe
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\text-writer-console-app\TextWriter\TextWriter\obj\Debug\TextWriter.pdb
